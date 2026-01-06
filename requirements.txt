@@ -1,7 +1,9 @@
-flask
-gunicorn
-numpy
-pandas
-scikit-learn
-joblib
-xgboost
+Flask==3.0.0
+gunicorn==21.2.0
+numpy==2.0.0
+pandas==2.2.2
+scikit-learn==1.5.0
+joblib==1.4.2
+xgboost==2.0.3
+reportlab==4.0.9
+matplotlib==3.9.0
